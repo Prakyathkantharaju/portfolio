@@ -2,27 +2,27 @@
   "siteMetadata": {
     "language": "en",
     "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
+    "title": "Protfolio webpage for P.K",
     "titleTemplate": "%s · Portfolio Minimal",
     "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
-    "avatar": "../content/images/gatsby.png",
+    "author": "P.K.",
+    "avatar": "../content/images/favicon.png",
     "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
     "social": {
       "behance": "https://behance.com",
-      "github": "https://github.com/konstantinmuenster",
-      "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "scholar": "https://scholar.google.com/citations?user=SWs6f8EAAAAJ&hl=en",
+      "github": "https://github.com/Prakyathkantharaju",
+      "linkedin": "https://www.linkedin.com/in/prakyath-kantharaju/",
+      "mail": "mailto:prakyathk33@gmail.com"
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "P.K" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
         { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
+        { "label": "Projects", "url": "/#Projects" },
         { "label": "Github", "url": "/#github" }
       ],
       "ctaButton": {

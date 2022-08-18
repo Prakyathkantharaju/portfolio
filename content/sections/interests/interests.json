@@ -1,58 +1,58 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
+      "label": "Robotics",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "../../images/robot.png",
         "alt": ""
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "exoskeleton",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/exosuits.png",
         "alt": ""
       }
     },
     {
-      "label": "Responsive Design",
+      "label": "Machine learning",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "../../images/machine-learning.png",
         "alt": ""
       }
     },
     {
-      "label": "Medium Integration",
+      "label": "ECG",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "../../images/ECG.png",
         "alt": ""
       }
     },
     {
-      "label": "Animations",
+      "label": "python",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "../../images/python.png",
         "alt": ""
       }
     },
     {
-      "label": "PWA (Offline Support)",
+      "label": "matlab",
       "image": {
-        "src": "../../images/mobile-phone.png",
+        "src": "../../images/matlab.jpeg",
         "alt": ""
       }
     },
     {
-      "label": "Modern Tech-Stack",
+      "label": "Opencv",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "../../images/opencv.png",
         "alt": ""
       }
     },
     {
-      "label": "Blazing Fast",
+      "label": "Git",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/git.png",
         "alt": ""
       }
     }
@@ -60,6 +60,6 @@
   "button": {
     "visible": true,
     "label": "+ Load More",
-    "initiallyShownInterests": 5
+    "initiallyShownInterests": 10
   }
 }
