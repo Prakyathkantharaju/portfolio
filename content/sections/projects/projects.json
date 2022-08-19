@@ -53,25 +53,7 @@
           "url": ""
         }
       ]
-    },
-    {
-      "visible": true,
-      "category": "📝 Research paper (In review)",
-      "title": "Single accelerometer to recognize human activities using Neural Networks",
-      "description": "Actitivy recognition using CNN and LSTM neural networks using a single chest mounted accelerometer.",
-      "tags": ["Research", "CNN", "LSTM", "Activity recogntion", "ASME Journal of Biomechanics"],
-      "image": {
-        "src": "../../images/activity_recognition.png",
-        "alt": "Quick Setup",
-        "linkTo": "https://www.nature.com/articles/s41598-022-14776-9"
-      },
-      "links": [
-        {
-          "type": "external",
-          "url": "https://www.nature.com/articles/s41598-022-14776-9"
-        }
-      ]
-    },
+    }
     {
       "visible": true,
       "category": "🤖 Github project",
@@ -89,25 +71,8 @@
           "url": "https://github.com/Prakyathkantharaju/Quadruped"
         }
       ]
-    },
-    {
-      "visible": false,
-      "category": "🤖 Github project",
-      "title": "Walking with eyes",
-      "description": "How does the RL env use eyes to help the robot walk? I added eyes to popular walker models and found it make it more stable using depth perception.",
-      "tags": ["Research", "PPO", "RL", "Walker", "Vision", "Github"],
-      "image": {
-        "src": "../../images/Learn-to-move.png",
-        "alt": "Quick Setup",
-        "linkTo": "https://wandb.ai/continuous-optimization/Walker_obstacles/reports/Learn-to-move--VmlldzoyNDkzNTIw?accessToken=8uckup2hr2vftl080zdd64ssd6u1vag707msbwesk6iett0y4ao2555kyx55ifa8"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/Prakyathkantharaju/Learn-to-move"
-        }
-      ]
     }
+
   ],
   "button": {
     "visible": true,
