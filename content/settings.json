@@ -36,8 +36,8 @@
       ]
     },
     "featureToggles": {
-      "useDarkModeAsDefault": false,
-      "useDarkModeBasedOnUsersPreference": true,
+      "useDarkModeAsDefault": true,
+      "useDarkModeBasedOnUsersPreference": false,
       "useCookieBar": false
     }
   }
