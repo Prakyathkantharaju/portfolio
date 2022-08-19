@@ -91,7 +91,7 @@
       ]
     },
     {
-      "visible": true,
+      "visible": false,
       "category": "🤖 Github project",
       "title": "Walking with eyes",
       "description": "How does the RL env use eyes to help the robot walk? I added eyes to popular walker models and found it make it more stable using depth perception.",
