@@ -23,7 +23,7 @@
         { "label": "About", "url": "/#about" },
         { "label": "Blog", "url": "/blog" },
         { "label": "Projects", "url": "/#Projects" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "Contact", "url": "/#Contact" }
       ],
       "ctaButton": {
         "openNewTab": true,
