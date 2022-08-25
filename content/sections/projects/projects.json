@@ -38,7 +38,7 @@
     },
     {
       "visible": true,
-      "category": "📝 Research paper (In review)",
+      "category": "📝 Research paper (Accepted)",
       "title": "Phase-plane based model-free estimation of steady-state metabolic cost",
       "description": "Estimating the metabolic cost using non-linear and data driven methods. Using Gaussian mixture model and Phase plane representation of metabolic cost.",
       "tags": ["Research", "Metabolic cost", "Phase plane", "Gaussian Mixture Model", "IEEE Access"],
