@@ -38,7 +38,7 @@
     },
     {
       "visible": true,
-      "category": "📝 Research paper (Accepted)",
+      "category": "📝 Research paper",
       "title": "Phase-plane based model-free estimation of steady-state metabolic cost",
       "description": "Estimating the metabolic cost using non-linear and data driven methods. Using Gaussian mixture model and Phase plane representation of metabolic cost.",
       "tags": ["Research", "Metabolic cost", "Phase plane", "Gaussian Mixture Model", "IEEE Access"],
@@ -69,6 +69,24 @@
         {
           "type": "github",
           "url": "https://github.com/Prakyathkantharaju/Quadruped"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🤖 Github project",
+      "title": "Learn to walk",
+      "description": "Adding eyes to the walker env to walk on obsitcles",
+      "tags": ["Research", "PPO", "RL", "walking", "opencv", "Github"],
+      "image": {
+        "src": "../../images/Learn-to-move.png",
+        "alt": "Quick Setup",
+        "linkTo": "https://wandb.ai/continuous-optimization/Walker_obstacles/reports/Learn-to-move--VmlldzoyNjUxOTQ2?accessToken=okoavra42txl6x6zfeslclcwbubkzauw87m8iklm3661ogz03mxfp2nqk2z8eptn"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/Prakyathkantharaju/Learn-to-move"
         }
       ]
     }
